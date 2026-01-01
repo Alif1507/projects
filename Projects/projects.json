@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "judul": "BelanjaCerdas",
+      "tech": "Figma",
+      "category": "UI/UX ● Web ● Design"
+    },
+    {
+      "id": 2,
+      "judul": "BetFree",
+      "tech": "Laravel ● React ● Tailwind ● MySQL",
+      "category": "Web ● Development"
+    }
+  ]
+}
