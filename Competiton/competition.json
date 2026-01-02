@@ -1,0 +1,28 @@
+{
+  "competition" : [
+    {
+      "id" : 1,
+      "judul" : "3rd Place - I/O Festtival 2025",
+      "category" : "Web Development"
+    },
+
+    {
+      "id" : 2,
+      "judul" : "3rd Place - T8chnofest 2025",
+      "category" : "Web Design"
+    },
+
+    {
+      "id" : 3,
+      "judul" : "1st Place - Himpact X Technoupdate 2025",
+      "category" : "UI/UX Design"
+    },
+
+    {
+      "id" : 4,
+      "judul" : "2nd Place - Junior Data Science Competition 2025",
+      "category" : "Data Science"
+    }
+    
+  ]
+}
