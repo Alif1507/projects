@@ -4,13 +4,57 @@
       "id": 1,
       "judul": "BelanjaCerdas",
       "tech": "Figma",
-      "category": "UI/UX ● Web ● Design"
+      "category": "UI/UX ● Web ● Design",
+      "link" : "https://www.figma.com/design/ebF8FLuBO6lPCEGkhONjQk/CartSmart?node-id=525-508&t=NRRdWHj2ths0UslU-1"
     },
     {
       "id": 2,
       "judul": "BetFree",
       "tech": "Laravel ● React ● Tailwind ● MySQL",
-      "category": "Web ● Development"
+      "category": "Web ● Development",
+      "link" : "https://github.com/Alif1507/BetFree"
+    },
+
+    {
+      "id": 3,
+      "judul": "Daurin",
+      "tech": "Flask ● React ● Tailwind",
+      "category": "Web ● Development",
+      "link" : "https://daurin.maw07.web.id/"
+    },
+
+    {
+      "id": 4,
+      "judul": "Ampat",
+      "tech": "React ● Tailwind",
+      "category": "Web ● Design",
+      "link" : "https://ampat.vercel.app/"
+    },
+
+    {
+      "id": 5,
+      "judul": "Akses Kita",
+      "tech": "HTML ● CSS ● JavaScript",
+      "category": "Web ● Design",
+      "link" : "https://akses-k-ita.vercel.app/"
+    },
+
+    {
+      "id": 6,
+      "judul": "InfoForYou",
+      "tech": "HTML ● CSS ● JavaScript",
+      "category": "Web ● Design",
+      "link" : "https://dark-indonesia.vercel.app/"
+    },
+    {
+      "id": 7,
+      "judul": "Jurnalistik 26",
+      "tech": "Laravel ● Tailwind ● MySQL",
+      "category": "Web ● Development",
+      "link" : "https://jurnalistik26.serv00.net/"
     }
+
+
+    
   ]
 }
