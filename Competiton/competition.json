@@ -3,25 +3,29 @@
     {
       "id" : 1,
       "judul" : "3rd Place - I/O Festtival 2025",
-      "category" : "Web Development"
+      "category" : "Web Development",
+      "link": "https://www.instagram.com/p/DLCOzgkJyMl/?igsh=ZGo5aDRlaGFheDl1"
     },
 
     {
       "id" : 2,
       "judul" : "3rd Place - T8chnofest 2025",
-      "category" : "Web Design"
+      "category" : "Web Design",
+      "link" : "https://www.instagram.com/p/DNf33xLJdbH/?igsh=dGh0czBmc3B1a2xh"
     },
 
     {
       "id" : 3,
       "judul" : "1st Place - Himpact X Technoupdate 2025",
-      "category" : "UI/UX Design"
+      "category" : "UI/UX Design",
+      "link": "https://www.instagram.com/p/DQI1-qpkmJh/?igsh=d2RmeG9reXpicXRm"
     },
 
     {
       "id" : 4,
       "judul" : "2nd Place - Junior Data Science Competition 2025",
-      "category" : "Data Science"
+      "category" : "Data Science",
+      "link": "https://www.instagram.com/p/DQJm-0vElRl/?igsh=MTY0YjFqajU1MmQ0ZA=="
     }
     
   ]
