@@ -26,6 +26,27 @@
       "judul" : "2nd Place - Junior Data Science Competition 2025",
       "category" : "Data Science",
       "link": "https://www.instagram.com/p/DQJm-0vElRl/?igsh=MTY0YjFqajU1MmQ0ZA=="
+    },
+
+    {
+      "id" : 5,
+      "judul" : "3rd Place - T8chnofest 2025",
+      "category" : "UI/UX Design",
+      "link": "https://www.instagram.com/p/DbnVW33pMm_/?igsh=MWo1bWpnNGEyMWZtZw=="
+    },
+
+    {
+      "id" : 6,
+      "judul" : "7th Place - Lomba Kompetensi Siswa 2026",
+      "category" : "Web Technology",
+      "link": "#"
+    },
+
+    {
+      "id" : 7,
+      "judul" : "2nd Place - IT-CAS 2026",
+      "category" : "UI/UX Design",
+      "link": "https://www.instagram.com/p/DTO1KDakj7C/?igsh=MTdqNnlhcXJhbzkzYw%3D%3D"
     }
     
   ]
