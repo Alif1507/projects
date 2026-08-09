@@ -52,7 +52,43 @@
       "tech": "Laravel ● Tailwind ● MySQL",
       "category": "Web ● Development",
       "link" : "https://jurnalistik26.serv00.net/"
+    },
+
+    {
+      "id": 8,
+      "judul": "EqualWorks",
+      "tech": "Laravel ● Tailwind ● React ● MySQL",
+      "category": "Web ● Development",
+      "link" : "https://github.com/Ganantha-RS/EQUALWORKS"
+    },
+
+    {
+      "id": 9,
+      "judul": "FindPart",
+      "tech": "Laravel ● Tailwind ● React ● MySQL",
+      "category": "Web ● Development",
+      "link" : "https://github.com/4CloverDigitalID/FindPart/tree/main"
+    },
+
+    {
+      "id": 10,
+      "judul": "KaderAI",
+      "tech": "Laravel ● Tailwind ● React ● MySQL",
+      "category": "Web ● Development",
+      "link" : "https://github.com/4CloverDigitalID/KaderAI"
+    },
+
+    {
+      "id": 11,
+      "judul": "Personal Kasir Warung",
+      "tech": "FastAPI ● React ● Supabase",
+      "category": "Web ● Development",
+      "link" : "https://github.com/Alif1507/personal_kasir_warung_keren"
     }
+    
+
+
+
 
 
     
